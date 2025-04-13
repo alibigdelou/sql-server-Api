@@ -1,2 +1,2 @@
 # sql-server-Api
-Crud api on Sql servers - python
+Implementing CRUD operations in the SQL server database in Python
